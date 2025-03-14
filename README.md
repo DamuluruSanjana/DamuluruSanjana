@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjana 👋
 
-## ⚡GitHub Current Stats⚡
+## ⚡Current Stats⚡
 
 ![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamuluruSanjana&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
